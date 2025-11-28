@@ -1,0 +1,15 @@
+# Training artifacts
+results/
+logs/
+*.ckpt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
