@@ -59,6 +59,9 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## YouTube
+[Link](https://youtu.be/_QaASatX-Yg)
+
 ## Key Learnings
 
 - LoRA enables fine-tuning on modest hardware
